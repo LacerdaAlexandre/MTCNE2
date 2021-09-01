@@ -1,0 +1,32 @@
+{
+  "artigos": [
+    {
+      "id": 1,
+      "titulo": "16º Domingo do Tempo Comum",
+      "texto": "Os discípulos estão voltando da sua primeira experiência missionária. Têm muito que contar e, com certeza, perguntas a fazer, dúvidas por esclarecer e, sobretudo, necessidade de descansar, na intimidade do Mestre. Jesus mesmo sugere este gostoso retiro. Mas as multidões, tocadas por uma palavra diferente e cada vez mais sedentas dessa novidade boa que andou sendo anunciada, correm atrás de Jesus e sua turma, chegando, primeiro que eles, do outro lado do lago.",
+      "data": "08-29-2021",
+      "autor": "Reginaldo Veloso"
+    },
+    {
+      "id": 2,
+      "titulo": "17º Domingo do Tempo Comum",
+      "texto": "“O pouco com Deus é muito e o muito sem Deus é nada”, sabedoria popular que arranca, com certeza, deste momento significativo da vida de Jesus, narrado pelos 4 Evangelistas. Se compreendermos seu significado maior e mais profundo, nossa atitude será menos de procurar milagres e, para tanto, fazermos tantas promessas, e muito mais a de colocarmos à disposição do Mestre, para o bem dos irmãos e irmãs, tudo quanto somos e temos.",
+      "data": "07-22-2021",
+      "autor": "Reginaldo Veloso"
+    },
+    {
+      "id": 3,
+      "titulo": "22º Domingo do Tempo Comum",
+      "texto": "Neste ano, é o Evangelista Marcos quem nos vem ajudando a caminhar no seguimento de Jesus, o Messias, o Filho de Deus. Mas, acabamos de passar algumas semanas às voltas com João, desafiados pelo “sinal do Pão” e, sobretudo, pelo discurso de Jesus sobre o Pão da vida eterna.",
+      "data": "08-29-2021",
+      "autor": "Reginaldo Veloso"
+    },
+    {
+      "titulo": "15º DOMINGO DO TEMPO DO DISCIPULADO E DA MISSÃO",
+      "texto": "Não é porque somos os mais inteligentes, os mais hábeis e preparados, que Deus conta conosco para alguma coisa...",
+      "data": "07-08-2021",
+      "autor": "Reginaldo Veloso",
+      "id": 4
+    }
+  ]
+}
