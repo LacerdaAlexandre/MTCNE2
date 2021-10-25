@@ -1,0 +1,35 @@
+:host {
+  #menuHeader.minimized {
+    height: 0;
+  }
+
+  #menuHeader {
+    width: 100%;
+    position: fixed;
+    color: black;
+    left: 0;
+    top: 4.5em;
+    text-align: center;
+    transition: height 0.3s;
+    height: 30em;
+
+    .itemMenuHeader.minimized {
+      height: 0;
+    }
+    .itemMenuHeader {
+      text-align: center;
+      background-color: #f5f5f5;
+      height: 1.5em;
+      display: block;
+      transition: height 0.3s;
+      width: 100%;
+      position: relative;
+      font-weight: bold;
+    }
+
+    .itemMenuHeader:hover {
+      background-color: white;
+      box-shadow: 0 0 0.1em 0 grey;
+    }
+  }
+}

@@ -1,0 +1,48 @@
+<div id="menuHeader" [class.minimized]="menuOpened">
+    <div class="itemMenuHeader"  [class.minimized]="menuOpened">
+        HOME
+    </div>
+    
+    <div class="itemMenuHeader"  [class.minimized]="menuOpened">
+        BLOGS
+    </div>
+    
+    <div class="itemMenuHeader"  [class.minimized]="menuOpened">
+        NOTICIAS
+    </div>
+    
+    <div class="itemMenuHeader"  [class.minimized]="menuOpened">
+        CONTATOS
+    </div>
+
+    <div class="itemMenuHeader" (click)="toggleMenu()">
+        <mat-icon>keyboard_arrow_down</mat-icon>        
+    </div>
+</div>
+
+
+
+
+
+<!-- 
+<div id="menuHeader" [class.minimized]="menuOpened">
+    <div class="itemMenuHeader" (click)="toggleMenu()">
+        <mat-icon>keyboard_arrow_down</mat-icon>        
+    </div>
+    
+    <div class="itemMenuHeader">
+        HOME
+    </div>
+    
+    <div class="itemMenuHeader">
+        BLOGS
+    </div>
+    
+    <div class="itemMenuHeader">
+        NOTICIAS
+    </div>
+    
+    <div class="itemMenuHeader">
+        CONTATOS
+    </div>
+</div> -->
